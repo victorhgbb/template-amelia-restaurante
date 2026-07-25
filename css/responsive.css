@@ -264,7 +264,8 @@ section{
 
 .logo-header img{
 
-    width:clamp(180px, 26vw, 240px);
+    width:clamp(100px, 18vw, 140px);
+    padding:8px 0;
 
 }
 
@@ -873,9 +874,10 @@ section{
 .logo-header img{
 
 
-    width:clamp(160px, 32vw, 210px);
+    width:clamp(120px, 28vw, 160px);
 
     height:auto;
+    padding:6px 0;
 
 
 }

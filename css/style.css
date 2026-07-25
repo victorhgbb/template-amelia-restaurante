@@ -455,10 +455,11 @@ section{
 
     height:auto;
 
-    width:clamp(260px, 18vw, 320px);
+    width:clamp(180px, 14vw, 240px);
     max-width:100%;
     object-fit:contain;
     aspect-ratio: 3 / 1;
+    padding:10px 0;
 
 
 }
@@ -2000,15 +2001,13 @@ footer h4{
 ===================================================== */
 
 
-#header.scrolled .logo img{
+#header.scrolled .logo-header img{
 
-
-    height:clamp(60px, 8vw, 88px);
-
-    max-width:260px;
-
+    width:clamp(180px, 14vw, 240px);
+    padding:10px 0;
 
 }
+
 
 
 

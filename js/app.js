@@ -238,8 +238,8 @@ function initHeaderScroll(){
         if(logoImg){
 
             logoImg.src = isScrolled
-                ? "img/amelia-logo-verde.png"
-                : "img/amelia-logo-branco.png";
+                ? "img/amelia-logo-verde-1.png"
+                : "img/amelia-logo-branco-1.png";
 
         }
 
