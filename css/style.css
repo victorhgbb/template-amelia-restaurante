@@ -1652,7 +1652,9 @@ footer .container{
 
 
 
-
+.footer-brand {
+    text-align: center;
+}
 
 
 
@@ -1666,6 +1668,8 @@ footer .container{
 
 
     line-height:1.7;
+
+    text-align: center;
 
 
 }
